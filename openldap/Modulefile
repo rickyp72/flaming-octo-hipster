@@ -1,0 +1,8 @@
+name         'camptocamp-openldap'
+version      '0.1.0'
+dependency   'puppetlabs/stdlib'
+dependency   'domcleal/augeasproviders'
+source       'https://github.com/camptocamp/puppet-openldap'
+author       'Camptocamp'
+summary      'Puppet OpenLDAP module'
+project_page 'https://github.com/camptocamp/puppet-openldap'
